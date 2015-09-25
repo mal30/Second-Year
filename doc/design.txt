@@ -1,4 +1,0 @@
-design
-a line
-this is not a line.
-this is not a line --------.
